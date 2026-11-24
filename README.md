@@ -2,7 +2,7 @@
 
 Founding Engineer (Full-Stack & GTM Ops) at **[Breathe](https://github.com/Breathe-ESG)**, 2025 – present.
 
-Breathe is an ESG data and reporting platform used by 40+ enterprises, including Rubix, Swiggy, CEAT and Paytm. This account holds my day-to-day work there, all of it in private repos, so the graph shows counts only.
+Breathe is an ESG data and reporting platform used by 40+ enterprises, including Rubix, Swiggy, CEAT and Paytm. This account holds my day-to-day work there, all of it in private repos.
 
 ## What I've built at Breathe
 
